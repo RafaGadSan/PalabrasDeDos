@@ -65,3 +65,4 @@ const styles = StyleSheet.create({
   ukrainian: { fontSize: 18, marginTop: 5, fontWeight: '500' },
   example: { fontSize: 14, color: '#666', marginTop: 5, fontStyle: 'italic' }
 });
+
